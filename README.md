@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 # universial-cli
 
 统一规范的脚手架开发，降低新建代码库框架搭建时间，时长从1人日缩短至0.5小时内
-=======
-# universial-cli  统一规范的脚手架开发，降低新建代码库框架搭建时间，时长从1人日缩短至0.5小时内
->>>>>>> 0cc3189621972001ee7fce8ca4daa31176ee591d
 
 ## Recommended IDE Setup
 
@@ -48,4 +44,3 @@ npm run build
 ```sh
 npm run lint
 ```
-
